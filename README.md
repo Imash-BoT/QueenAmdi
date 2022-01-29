@@ -25,7 +25,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MEDYT1/WhatsMED)
 
 ### Deploy OLD v3 Queen Amdi Bot
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Imash-BoT/QueenAmdi)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Imash-BoT/QueenAmdi)
 </div>
 
 ----

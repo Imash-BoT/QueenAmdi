@@ -1,4 +1,4 @@
-FROM Imash-BoT/QueenAmdi
+FROM fusuf/whatsasena:latest
 
 RUN git clone https://github.com/Imash-BoT/QueenAmdi /root/QueenAmdi
 WORKDIR /root/QueenAmdi/

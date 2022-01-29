@@ -1,6 +1,6 @@
-FROM BlackAmda/queenamdi:public
+FROM Imash-BoT/QueenAmdi
 
-RUN git clone https://github.com/saivlog/QueenAmdi /root/QueenAmdi
+RUN git clone https://github.com/Imash-BoT/QueenAmdi /root/QueenAmdi
 WORKDIR /root/QueenAmdi/
 ENV TZ=Asia/Colombo
 RUN npm install supervisor -g

@@ -30,7 +30,7 @@ const chalk = require('chalk');
 
 const {WAConnection, MessageOptions, MessageType} = require('@adiwajshing/baileys');
 
-const {StringSession} = require('./maalutty/');
+const {StringSession} = require('./antech_modules/');
 
 const fs = require('fs');
 
